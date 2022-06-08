@@ -1,2 +1,2 @@
 # go-dal
-golang 分库分表中间件
+Data Acces Layer for golang
